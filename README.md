@@ -8,7 +8,7 @@ About me
 </h1>
 
 <p align="center">
-I'm Vladislav from Ukrain, my birthday is April first and I like making websites
+I'm Vladislav( 15 y.o ) from Ukrain, my birthday is April first, I like making websites
 </p>
 
 <p align="center">
