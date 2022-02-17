@@ -8,7 +8,6 @@
   
   *Name: Vladislav;
   *Age: 15
-  
 </p>
 
 
