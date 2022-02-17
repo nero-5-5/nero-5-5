@@ -3,7 +3,8 @@
 </p>
 
 <div align="center" width="100%" height="auto">
-  <div align="left" width="640">
+  <div align="left" width="500">
+    
     ## About me
   </div>
 </div>
