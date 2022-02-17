@@ -8,7 +8,7 @@ About me
 </h1>
 
 <p align="center">
-I'm Vladislav, I'm 15 years old, I'm from Ukraine, I like to make websites
+I'm Vladislav from Ukrain, and I do content on Front-end.
 </p>
 
 <p align="center">
