@@ -8,9 +8,9 @@ About me
 </h1>
 
 <p align="center">
-I'm Vladislav ( 15 y.o ) from Ukrain, my birthday is April first, I like making websites
+I'm Vladislav(15 y.o) from Ukrain, my birthday is April first, I like making websites
 </p>
 
 <p align="center">
-( Front end ) - technology set : html/css ( flex ), bootatrap, BEM, javascript ( learning )
+( Front end ) - technology set : html/css(flex), bootatrap, BEM, javascript ( learning )
 </p>
