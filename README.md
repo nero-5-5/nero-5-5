@@ -5,10 +5,10 @@
 
 <p align="center">
   About me
-  
+</p>
+
+<p align="center">
   *Name: Vladislav;
   *Age: 15
 </p>
-
-
 
