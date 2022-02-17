@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nero-5-5/nero-5-5/blob/main/dazai-fl-846.gif" alt="animated" />
+  <img src="https://github.com/nero-5-5/nero-5-5/blob/main/dazai-fl-732.gif" alt="animated" />
 </p>
 
 
