@@ -12,5 +12,5 @@ I'm Vladislav from Ukrain, my birthday is April first and I like making websites
 </p>
 
 <p align="center">
-( Front end )  technology set : html/css ( flex ), bootatrap, BEM, javascript  (learning )
+( Front end ) - technology set : html/css ( flex ), bootatrap, BEM, javascript ( learning )
 </p>
