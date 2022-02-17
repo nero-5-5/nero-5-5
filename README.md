@@ -7,10 +7,6 @@
   About me
 </h1>
 
-<h4 align="left">
-Name: Vladislav
-
-Age: 15
-
-development environment: Front-end
-</h4>
+<p align="center">
+I'm Vladislav, I'm 15 years old, I love making websites
+</p>
