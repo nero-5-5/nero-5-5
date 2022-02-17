@@ -8,9 +8,9 @@
 </h1>
 
 <h4 align="center">
-● Name: Vladislav
+Name: Vladislav
 
-● Age: 15
+Age: 15
 
-● development environment: Front-end
+development environment: Front-end
 </h4>
