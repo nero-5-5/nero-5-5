@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-* Name: Vladislave
+⦁ Name: Vladislave
 </p>
