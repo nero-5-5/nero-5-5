@@ -3,8 +3,9 @@
 </p>
 
 
-->About me<-
-
+<p align="center">
+  About me
+</p>
 
 
 
