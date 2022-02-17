@@ -8,9 +8,5 @@
 </p>
 
 <p align="center">
-+Name: Vladislav
-+Age: 15
+* Name: Vladislave
 </p>
-
-+Name: Vladislav
-+Age: 15
