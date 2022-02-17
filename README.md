@@ -3,9 +3,9 @@
 </p>
 
 <div align="center" width="100%" height="auto">
-  <div align="left" width="500">
+  <div align="left" width="300">
     
-    ## About me
+    # About me
   </div>
 </div>
 
