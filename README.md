@@ -11,11 +11,6 @@ About me
 I'm Vladislav, I'm 15 years old, I'm from Ukraine, I like to make websites
 </p>
 
-
-
-
-
-
-<h2 align="center">
-Technology set 
-</h2>
+<p align="center">
+  technology set : html/css( flex ), bootatrap, BEM, javascript( learning )
+</p>
