@@ -7,7 +7,7 @@
   About me
 </h1>
 
-<h4 align="center">
+<h4 align="left">
 Name: Vladislav
 
 Age: 15
