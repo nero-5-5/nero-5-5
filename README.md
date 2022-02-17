@@ -9,6 +9,8 @@
 
 <h4 align="center">
 ● Name: Vladislav
+  
 ● Age: 15
+  
 ● development environment: Front-end
 </h4>
