@@ -7,6 +7,6 @@
   About me
 </h1>
 
-<p align="center">
+<h4 align="center">
 ● Name: Vladislav
-</p>
+</h4>
