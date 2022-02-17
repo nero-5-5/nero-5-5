@@ -8,5 +8,5 @@
 </h1>
 
 <p align="center">
-I'm Vladislav, I'm 15 years old, I love making websites
+I'm Vlad, I'm 15 years old, I'm from Ukraine, I like to make websites
 </p>
