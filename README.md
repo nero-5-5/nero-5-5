@@ -12,5 +12,5 @@ I'm Vladislav(15 y.o) from Ukrain, I like creating websites, watching anime and 
 </p>
 
 <p align="center">
-( Front end ) - technology set : html/css(flex), bootstrap, BEM, javascript ( learning )
+( Front end ) - technology set: html/css(flex), bootstrap, BEM, javascript ( learning )
 </p>
