@@ -8,7 +8,7 @@ About me
 </h1>
 
 <p align="center">
-I'm Vladislav(15 y.o) from Ukrain, I like creating websites, watching anime and playing games.
+I'm Vladislav(16 y.o) from Ukrain, I like creating websites, watching anime and playing games.
 </p>
 
 <p align="center">
